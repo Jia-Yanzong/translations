@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["I qartë", "qiell i kthjellët"],
-    "801": ["Re", "pak re: 11-25%"],
-    "802": ["Re", "pjesërisht me re: 25-50%"],
-    "803": ["Re", "shumë me re: 51-84%"],
-    "804": ["Re", "i mbuluar: 85-100%"]
+    "801": ["Re", "pak re"],
+    "802": ["Re", "pjesërisht me re"],
+    "803": ["Re", "shumë me re"],
+    "804": ["Re", "i mbuluar"]
 }

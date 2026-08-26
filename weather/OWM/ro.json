@@ -55,8 +55,8 @@
     "781": ["Tornadă", "tornadă"],
 
     "800": ["Senin", "cer senin"],
-    "801": ["Nori", "puțin noros: 11-25%"],
-    "802": ["Nori", "parțial noros: 25-50%"],
-    "803": ["Nori", "mult noros: 51-84%"],
-    "804": ["Nori", "acoperit: 85-100%"]
+    "801": ["Nori", "puțin noros"],
+    "802": ["Nori", "parțial noros"],
+    "803": ["Nori", "mult noros"],
+    "804": ["Nori", "acoperit"]
 }

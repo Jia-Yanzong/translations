@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Despejado", "cielo despejado"],
-    "801": ["Nubes", "pocas nubes: 11-25%"],
-    "802": ["Nubes", "nubes dispersas: 25-50%"],
-    "803": ["Nubes", "muy nuboso: 51-84%"],
-    "804": ["Nubes", "cubierto: 85-100%"]
+    "801": ["Nubes", "pocas nubes"],
+    "802": ["Nubes", "nubes dispersas"],
+    "803": ["Nubes", "muy nuboso"],
+    "804": ["Nubes", "cubierto"]
 }

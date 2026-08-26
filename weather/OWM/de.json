@@ -55,8 +55,8 @@
     "781": ["Tornado", "Tornado"],
 
     "800": ["Klar", "klarer Himmel"],
-    "801": ["Wolken", "leicht bewölkt: 11-25%"],
-    "802": ["Wolken", "aufgelockert bewölkt: 25-50%"],
-    "803": ["Wolken", "stark bewölkt: 51-84%"],
-    "804": ["Wolken", "bedeckt: 85-100%"]
+    "801": ["Wolken", "leicht bewölkt"],
+    "802": ["Wolken", "aufgelockert bewölkt"],
+    "803": ["Wolken", "stark bewölkt"],
+    "804": ["Wolken", "bedeckt"]
 }

@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Cerah", "langit cerah"],
-    "801": ["Berawan", "sedikit berawan: 11-25%"],
-    "802": ["Berawan", "sebagian berawan: 25-50%"],
-    "803": ["Berawan", "banyak awan: 51-84%"],
-    "804": ["Berawan", "mendung: 85-100%"]
+    "801": ["Berawan", "sedikit berawan"],
+    "802": ["Berawan", "sebagian berawan"],
+    "803": ["Berawan", "banyak awan"],
+    "804": ["Berawan", "mendung"]
 }

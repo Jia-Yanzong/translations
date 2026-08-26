@@ -55,8 +55,8 @@
     "781": ["Tornadas", "tornadas"],
 
     "800": ["Giedra", "giedras dangus"],
-    "801": ["Debesys", "mažai debesuota: 11-25%"],
-    "802": ["Debesys", "kintamai debesuota: 25-50%"],
-    "803": ["Debesys", "debesuota: 51-84%"],
-    "804": ["Debesys", "apsiniaukę: 85-100%"]
+    "801": ["Debesys", "mažai debesuota"],
+    "802": ["Debesys", "kintamai debesuota"],
+    "803": ["Debesys", "debesuota"],
+    "804": ["Debesys", "apsiniaukę"]
 }

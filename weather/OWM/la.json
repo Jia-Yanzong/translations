@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Skaidrs", "skaidras debesis"],
-    "801": ["Mākoņi", "nedaudz mākoņains: 11-25%"],
-    "802": ["Mākoņi", "mainīgi mākoņains: 25-50%"],
-    "803": ["Mākoņi", "mākoņains: 51-84%"],
-    "804": ["Mākoņi", "apmācies: 85-100%"]
+    "801": ["Mākoņi", "nedaudz mākoņains"],
+    "802": ["Mākoņi", "mainīgi mākoņains"],
+    "803": ["Mākoņi", "mākoņains"],
+    "804": ["Mākoņi", "apmācies"]
 }

@@ -55,8 +55,8 @@
     "781": ["Isiphepho esijikelezayo", "isiphepho esijikelezayo"],
 
     "800": ["Ukucwebezela", "isibhakabhaka esicwebile"],
-    "801": ["Amafu", "amafu amancane: 11-25%"],
-    "802": ["Amafu", "amafu asakazekile: 25-50%"],
-    "803": ["Amafu", "amafu amaningi: 51-84%"],
-    "804": ["Amafu", "amafu amnyama: 85-100%"]
+    "801": ["Amafu", "amafu amancane"],
+    "802": ["Amafu", "amafu asakazekile"],
+    "803": ["Amafu", "amafu amaningi"],
+    "804": ["Amafu", "amafu amnyama"]
 }
