@@ -10,25 +10,25 @@
     "231": ["Thunderstorm", "thunderstorm with drizzle"],
     "232": ["Thunderstorm", "thunderstorm with heavy drizzle"],
     
-    "300": ["Drizzle", "light intensity drizzle"],
+    "300": ["Drizzle", "light drizzle"],
     "301": ["Drizzle", "drizzle"],
-    "302": ["Drizzle", "heavy intensity drizzle"],
-    "310": ["Drizzle", "light intensity drizzle rain"],
+    "302": ["Drizzle", "heavy drizzle"],
+    "310": ["Drizzle", "light drizzle rain"],
     "311": ["Drizzle", "drizzle rain"],
-    "312": ["Drizzle", "heavy intensity drizzle rain"],
+    "312": ["Drizzle", "heavy drizzle rain"],
     "313": ["Drizzle", "shower rain and drizzle"],
     "314": ["Drizzle", "heavy shower rain and drizzle"],
     "321": ["Drizzle", "shower drizzle"],
 
     "500": ["Rain", "light rain"],
     "501": ["Rain", "moderate rain"],
-    "502": ["Rain", "heavy intensity rain"],
+    "502": ["Rain", "heavy rain"],
     "503": ["Rain", "very heavy rain"],
     "504": ["Rain", "extreme rain"],
     "511": ["Rain", "freezing rain"],
-    "520": ["Rain", "light intensity shower rain"],
+    "520": ["Rain", "light shower rain"],
     "521": ["Rain", "shower rain"],
-    "522": ["Rain", "heavy intensity shower rain"],
+    "522": ["Rain", "heavy shower rain"],
     "531": ["Rain", "ragged shower rain"],
 
     "600": ["Snow", "light snow"],
@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
     
     "800": ["Clear", "clear sky"],
-    "801": ["Clouds", "few clouds: 11-25%"],
-    "802": ["Clouds", "scattered clouds: 25-50%"],
-    "803": ["Clouds", "broken clouds: 51-84%"],
-    "804": ["Clouds", "overcast clouds: 85-100%"]
+    "801": ["Clouds", "few clouds"],
+    "802": ["Clouds", "scattered clouds"],
+    "803": ["Clouds", "broken clouds"],
+    "804": ["Clouds", "overcast clouds"]
 }

@@ -55,8 +55,8 @@
     "781": ["Hvirfilvindur", "hvirfilvindur"],
 
     "800": ["Skýlaust", "heiðskýrt"],
-    "801": ["Skýjað", "lítið skýjað: 11-25%"],
-    "802": ["Skýjað", "nokkuð skýjað: 25-50%"],
-    "803": ["Skýjað", "mjög skýjað: 51-84%"],
-    "804": ["Skýjað", "alskýjað: 85-100%"]
+    "801": ["Skýjað", "lítið skýjað"],
+    "802": ["Skýjað", "nokkuð skýjað"],
+    "803": ["Skýjað", "mjög skýjað"],
+    "804": ["Skýjað", "alskýjað"]
 }

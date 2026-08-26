@@ -55,8 +55,8 @@
     "781": ["Tornádó", "tornádó"],
 
     "800": ["Derült", "derült égbolt"],
-    "801": ["Felhők", "kevés felhő: 11-25%"],
-    "802": ["Felhők", "változóan felhős: 25-50%"],
-    "803": ["Felhők", "erősen felhős: 51-84%"],
-    "804": ["Felhők", "borult: 85-100%"]
+    "801": ["Felhők", "kevés felhő"],
+    "802": ["Felhők", "változóan felhős"],
+    "803": ["Felhők", "erősen felhős"],
+    "804": ["Felhők", "borult"]
 }

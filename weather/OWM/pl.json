@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Bezchmurnie", "bezchmurne niebo"],
-    "801": ["Zachmurzenie", "małe zachmurzenie: 11-25%"],
-    "802": ["Zachmurzenie", "zmienne zachmurzenie: 25-50%"],
-    "803": ["Zachmurzenie", "duże zachmurzenie: 51-84%"],
-    "804": ["Zachmurzenie", "całkowite zachmurzenie: 85-100%"]
+    "801": ["Zachmurzenie", "małe zachmurzenie"],
+    "802": ["Zachmurzenie", "zmienne zachmurzenie"],
+    "803": ["Zachmurzenie", "duże zachmurzenie"],
+    "804": ["Zachmurzenie", "całkowite zachmurzenie"]
 }

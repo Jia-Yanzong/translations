@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Limpo", "céu limpo"],
-    "801": ["Nuvens", "poucas nuvens: 11-25%"],
-    "802": ["Nuvens", "nuvens esparsas: 25-50%"],
-    "803": ["Nuvens", "muito nublado: 51-84%"],
-    "804": ["Nuvens", "encoberto: 85-100%"]
+    "801": ["Nuvens", "poucas nuvens"],
+    "802": ["Nuvens", "nuvens esparsas"],
+    "803": ["Nuvens", "muito nublado"],
+    "804": ["Nuvens", "encoberto"]
 }

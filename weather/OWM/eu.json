@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Argi", "zeru argia"],
-    "801": ["Hodeiak", "hodei gutxi: 11-25%"],
-    "802": ["Hodeiak", "hodei batzuk: 25-50%"],
-    "803": ["Hodeiak", "oso hodeitsu: 51-84%"],
-    "804": ["Hodeiak", "estalia: 85-100%"]
+    "801": ["Hodeiak", "hodei gutxi"],
+    "802": ["Hodeiak", "hodei batzuk"],
+    "803": ["Hodeiak", "oso hodeitsu"],
+    "804": ["Hodeiak", "estalia"]
 }

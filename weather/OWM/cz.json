@@ -55,8 +55,8 @@
     "781": ["Tornádo", "tornádo"],
 
     "800": ["Jasno", "jasná obloha"],
-    "801": ["Oblačnost", "malá oblačnost: 11-25%"],
-    "802": ["Oblačnost", "proměnlivá oblačnost: 25-50%"],
-    "803": ["Oblačnost", "velká oblačnost: 51-84%"],
-    "804": ["Oblačnost", "zataženo: 85-100%"]
+    "801": ["Oblačnost", "malá oblačnost"],
+    "802": ["Oblačnost", "proměnlivá oblačnost"],
+    "803": ["Oblačnost", "velká oblačnost"],
+    "804": ["Oblačnost", "zataženo"]
 }

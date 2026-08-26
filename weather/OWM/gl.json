@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Despexado", "ceo despexado"],
-    "801": ["Nubes", "poucas nubes: 11-25%"],
-    "802": ["Nubes", "nubes dispersas: 25-50%"],
-    "803": ["Nubes", "moi nubrado: 51-84%"],
-    "804": ["Nubes", "cuberto: 85-100%"]
+    "801": ["Nubes", "poucas nubes"],
+    "802": ["Nubes", "nubes dispersas"],
+    "803": ["Nubes", "moi nubrado"],
+    "804": ["Nubes", "cuberto"]
 }

@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Sereno", "cielo sereno"],
-    "801": ["Nuvole", "poco nuvoloso: 11-25%"],
-    "802": ["Nuvole", "parzialmente nuvoloso: 25-50%"],
-    "803": ["Nuvole", "molto nuvoloso: 51-84%"],
-    "804": ["Nuvole", "coperto: 85-100%"]
+    "801": ["Nuvole", "poco nuvoloso"],
+    "802": ["Nuvole", "parzialmente nuvoloso"],
+    "803": ["Nuvole", "molto nuvoloso"],
+    "804": ["Nuvole", "coperto"]
 }

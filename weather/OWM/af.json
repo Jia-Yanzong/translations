@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Helder", "helder lug"],
-    "801": ["Wolke", "effens bewolk: 11-25%"],
-    "802": ["Wolke", "halfbewolk: 25-50%"],
-    "803": ["Wolke", "bewolk: 51-84%"],
-    "804": ["Wolke", "oorwolk: 85-100%"]
+    "801": ["Wolke", "effens bewolk"],
+    "802": ["Wolke", "halfbewolk"],
+    "803": ["Wolke", "bewolk"],
+    "804": ["Wolke", "oorwolk"]
 }

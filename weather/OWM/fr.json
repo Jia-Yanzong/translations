@@ -55,8 +55,8 @@
     "781": ["Tornade", "tornade"],
 
     "800": ["Clair", "ciel dégagé"],
-    "801": ["Nuages", "peu nuageux : 11-25%"],
-    "802": ["Nuages", "partiellement nuageux : 25-50%"],
-    "803": ["Nuages", "très nuageux : 51-84%"],
-    "804": ["Nuages", "couvert : 85-100%"]
+    "801": ["Nuages", "peu nuageux "],
+    "802": ["Nuages", "partiellement nuageux "],
+    "803": ["Nuages", "très nuageux "],
+    "804": ["Nuages", "couvert "]
 }

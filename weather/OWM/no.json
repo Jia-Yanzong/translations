@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Klart", "klar himmel"],
-    "801": ["Skyer", "lettskyet: 11-25%"],
-    "802": ["Skyer", "delvis skyet: 25-50%"],
-    "803": ["Skyer", "overveiende skyet: 51-84%"],
-    "804": ["Skyer", "overskyet: 85-100%"]
+    "801": ["Skyer", "lettskyet"],
+    "802": ["Skyer", "delvis skyet"],
+    "803": ["Skyer", "overveiende skyet"],
+    "804": ["Skyer", "overskyet"]
 }

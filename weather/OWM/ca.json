@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Clar", "cel clar"],
-    "801": ["Núvols", "poc ennuvolat: 11-25%"],
-    "802": ["Núvols", "parcialment ennuvolat: 25-50%"],
-    "803": ["Núvols", "molt ennuvolat: 51-84%"],
-    "804": ["Núvols", "cobert: 85-100%"]
+    "801": ["Núvols", "poc ennuvolat"],
+    "802": ["Núvols", "parcialment ennuvolat"],
+    "803": ["Núvols", "molt ennuvolat"],
+    "804": ["Núvols", "cobert"]
 }

@@ -84,6 +84,7 @@
         "f857" : "am/pm",
         "f858" : "AM/PM",
         "f859" : "Week Number (ISO 8601)",
+        "f873" : "Week Number (Calendar)",
         "f860" : "Time (09:15)",
         "f861" : "Custom Time Format",
         "f880" : "UTC Time (09:15)",

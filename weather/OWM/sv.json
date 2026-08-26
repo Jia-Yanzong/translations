@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Klart", "klar himmel"],
-    "801": ["Moln", "lätt molnigt: 11-25%"],
-    "802": ["Moln", "halvklart: 25-50%"],
-    "803": ["Moln", "molnigt: 51-84%"],
-    "804": ["Moln", "mulet: 85-100%"]
+    "801": ["Moln", "lätt molnigt"],
+    "802": ["Moln", "halvklart"],
+    "803": ["Moln", "molnigt"],
+    "804": ["Moln", "mulet"]
 }

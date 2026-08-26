@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Jasno", "jasno nebo"],
-    "801": ["Oblaki", "malo oblačno: 11-25%"],
-    "802": ["Oblaki", "spremenljivo oblačno: 25-50%"],
-    "803": ["Oblaki", "pretežno oblačno: 51-84%"],
-    "804": ["Oblaki", "oblačno: 85-100%"]
+    "801": ["Oblaki", "malo oblačno"],
+    "802": ["Oblaki", "spremenljivo oblačno"],
+    "803": ["Oblaki", "pretežno oblačno"],
+    "804": ["Oblaki", "oblačno"]
 }

@@ -55,8 +55,8 @@
     "781": ["Kasırga", "kasırga"],
 
     "800": ["Açık", "açık gökyüzü"],
-    "801": ["Bulutlar", "az bulutlu: 11-25%"],
-    "802": ["Bulutlar", "parçalı bulutlu: 25-50%"],
-    "803": ["Bulutlar", "çok bulutlu: 51-84%"],
-    "804": ["Bulutlar", "kapalı: 85-100%"]
+    "801": ["Bulutlar", "az bulutlu"],
+    "802": ["Bulutlar", "parçalı bulutlu"],
+    "803": ["Bulutlar", "çok bulutlu"],
+    "804": ["Bulutlar", "kapalı"]
 }

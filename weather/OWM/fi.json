@@ -55,8 +55,8 @@
     "781": ["Tornado", "tornado"],
 
     "800": ["Selkeää", "selkeä taivas"],
-    "801": ["Pilvet", "vähäpilvinen: 11-25%"],
-    "802": ["Pilvet", "puolipilvinen: 25-50%"],
-    "803": ["Pilvet", "pilvinen: 51-84%"],
-    "804": ["Pilvet", "yläpilvinen: 85-100%"]
+    "801": ["Pilvet", "vähäpilvinen"],
+    "802": ["Pilvet", "puolipilvinen"],
+    "803": ["Pilvet", "pilvinen"],
+    "804": ["Pilvet", "yläpilvinen"]
 }
