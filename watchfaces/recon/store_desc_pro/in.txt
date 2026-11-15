@@ -23,6 +23,12 @@ Catatan: Ada dua tempat berbeda dengan pengaturan:
 Semua bidang data yang saat ini disediakan Garmin untuk pengembang pihak ketiga tersedia, ditambah ekstra seperti dukungan Monitor Glukosa (CGM), Open Weather Map (OWM) dan dukungan untuk aplikasi pihak ketiga lainnya.
 Semua bidang data yang tersedia tercantum di sini: https://watchface.io/docs/datafields. Beberapa bidang data (seperti kesiapan latihan atau HRV) saat ini tidak tersedia untuk pengembang pihak ketiga, lihat di sini: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ Cuaca OWM / YR di Instinct 3 Solar dan Instinct E ⭐️
+Instal OWM Weather GB atau YR Weather GB di jam tangan Anda dan watchface ini akan menampilkan cuaca dari aplikasi tersebut: suhu, prakiraan, angin, hujan, indeks UV, dan lainnya. Pilih aplikasi di pengaturan pada "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, memerlukan API key milik Anda sendiri): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, tidak perlu key): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Info lebih lanjut: https://watchface.io/docs/owm-plugin dan https://watchface.io/docs/yr-plugin
+
 ⭐️ Bisakah saya mengubah teks Fenix/Enduro, dll? ⭐️
 Ya, Anda bisa! Lihat di sini: https://watchface.io/faq/how-to-change-the-fenix-text
 Faktanya, semua yang ada di tampilan jam ini dapat disesuaikan sesuai keinginan Anda.

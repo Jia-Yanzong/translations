@@ -23,6 +23,12 @@ Megjegyzés: Két különböző hely van a beállításokkal:
 Minden adatmező, amelyet a Garmin jelenleg harmadik fél fejlesztők számára biztosít, elérhető, plusz extrák, mint a Glükóz Monitor (CGM) támogatás, Open Weather Map (OWM) és egyéb harmadik fél alkalmazások támogatása.
 Az összes elérhető adatmező itt található: https://watchface.io/docs/datafields. Néhány adatmező (mint az edzésre való felkészültség vagy HRV) jelenleg nem érhető el harmadik fél fejlesztők számára, lásd itt: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ OWM / YR időjárás Instinct 3 Solar és Instinct E órán ⭐️
+Telepítse az OWM Weather GB vagy a YR Weather GB alkalmazást az órájára, és ez a számlap megjeleníti az alkalmazás időjárási adatait: hőmérséklet, előrejelzés, szél, eső, UV-index és még sok más. Az alkalmazást a beállításokban válassza ki, a "Weather app for the OWM/YR fields" alatt.
+* OWM Weather GB (OpenWeatherMap, saját API-kulcs szükséges): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, nincs szükség kulcsra): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* További információ: https://watchface.io/docs/owm-plugin és https://watchface.io/docs/yr-plugin
+
 ⭐️ Megváltoztathatom a Fenix/Enduro stb. szöveget? ⭐️
 Igen, megteheti! Lásd itt: https://watchface.io/faq/how-to-change-the-fenix-text
 Valójában ezen az óralapon minden beállítható az Ön ízlése szerint.

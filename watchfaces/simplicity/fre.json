@@ -25,6 +25,7 @@
         "_pi": "Afficher les icônes de la barre de progression",
         "_pd": "Afficher les données de la barre de progression",
         "_pbg": "Espacement des cercles de progression",
+        "_pbw": "Épaisseur de la barre de progression",
 
         "_p1c": "Barre de progression gauche couleur 1",
         "_p1b": "Barre de progression gauche couleur 2",

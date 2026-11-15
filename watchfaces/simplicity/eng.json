@@ -25,6 +25,7 @@
         "_pi": "Show Progress Bar Icons",
         "_pd": "Show Progress Bar Data",
         "_pbg": "Progress Circles Gap",
+        "_pbw": "Progress Bar Thickness",
 
         "_p1c": "Left Progress Bar Color 1",
         "_p1b": "Left Progress Bar Color 2",

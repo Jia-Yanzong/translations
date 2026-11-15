@@ -24,6 +24,12 @@
 Όλα τα πεδία δεδομένων που η Garmin παρέχει επί του παρόντος σε προγραμματιστές τρίτων είναι διαθέσιμα, συν επιπλέον όπως υποστήριξη Μετρητή Γλυκόζης (CGM), Open Weather Map (OWM) και υποστήριξη για άλλες εφαρμογές τρίτων.
 Όλα τα διαθέσιμα πεδία δεδομένων παρατίθενται εδώ: https://watchface.io/docs/datafields. Ορισμένα πεδία δεδομένων (όπως ετοιμότητα προπόνησης ή HRV) δεν είναι επί του παρόντος διαθέσιμα σε προγραμματιστές τρίτων, δείτε εδώ: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ Καιρός OWM / YR στα Instinct 3 Solar και Instinct E ⭐️
+Εγκαταστήστε το OWM Weather GB ή το YR Weather GB στο ρολόι σας και αυτό το καντράν θα εμφανίζει τον καιρό από την εφαρμογή: θερμοκρασία, πρόγνωση, άνεμο, βροχή, δείκτη UV και άλλα. Επιλέξτε την εφαρμογή στις ρυθμίσεις, στο "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, απαιτεί το δικό σας κλειδί API): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, δεν χρειάζεται κλειδί): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Περισσότερες πληροφορίες: https://watchface.io/docs/owm-plugin και https://watchface.io/docs/yr-plugin
+
 ⭐️ Μπορώ να αλλάξω το κείμενο Fenix/Enduro κλπ.; ⭐️
 Ναι, μπορείτε! Δείτε εδώ: https://watchface.io/faq/how-to-change-the-fenix-text
 Στην πραγματικότητα, τα πάντα σε αυτό το καντράν μπορούν να προσαρμοστούν σύμφωνα με τις προτιμήσεις σας.

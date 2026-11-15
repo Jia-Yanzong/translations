@@ -23,6 +23,12 @@ Huomautus: Asetuksia on kahdessa eri paikassa:
 Kaikki datakentät, jotka Garmin tällä hetkellä tarjoaa kolmannen osapuolen kehittäjille, ovat saatavilla, sekä lisäominaisuudet, kuten Glukoosimittarin (CGM) tuki, Open Weather Map (OWM) ja tuki muille kolmannen osapuolen sovelluksille.
 Kaikki saatavilla olevat datakentät on lueteltu täällä: https://watchface.io/docs/datafields. Jotkut datakentät (kuten harjoitteluvalmius tai HRV) eivät tällä hetkellä ole saatavilla kolmannen osapuolen kehittäjille, katso täältä: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ OWM / YR sää Instinct 3 Solar- ja Instinct E -kelloissa ⭐️
+Asenna OWM Weather GB tai YR Weather GB kelloosi, niin tämä kellotaulu näyttää sovelluksen säätiedot: lämpötilan, ennusteen, tuulen, sateen, UV-indeksin ja paljon muuta. Valitse sovellus asetuksista kohdasta "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, vaatii oman API-avaimen): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, ei tarvitse avainta): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Lisätietoja: https://watchface.io/docs/owm-plugin ja https://watchface.io/docs/yr-plugin
+
 ⭐️ Voinko muuttaa Fenix/Enduro -tekstiä jne.? ⭐️
 Kyllä voit! Katso täältä: https://watchface.io/faq/how-to-change-the-fenix-text
 Itse asiassa kaikkea tässä kellotaulussa voidaan säätää mieltymystesi mukaan.

@@ -13,4 +13,10 @@ Before buying this watchface, check out the free version first to make sure it i
 All datafields that Garmin currently supplies to third party developers are available, and support for other third party apps.
 All available datafields are listed here: https://watchface.io/docs/datafields. Some datafields (like training readiness or HRV) are currently not available to third party developers, see here: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ OWM / YR Weather on Instinct 3 Solar and Instinct E ⭐️
+Install OWM Weather GB or YR Weather GB on your watch and this watch face shows its weather: temperature, forecast, wind, rain, UV index and more. Pick the app under "Weather app for the OWM/YR fields" in the settings.
+* OWM Weather GB (OpenWeatherMap, needs your own API key): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, no key needed): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* More info: https://watchface.io/docs/owm-plugin and https://watchface.io/docs/yr-plugin
+
 

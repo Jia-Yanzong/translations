@@ -24,6 +24,12 @@ Uwaga: Istnieją dwa różne miejsca z ustawieniami:
 Wszystkie pola danych, które Garmin obecnie dostarcza programistom zewnętrznym, są dostępne, plus dodatki, takie jak obsługa Monitora Glukozy (CGM), Open Weather Map (OWM) i obsługa innych aplikacji zewnętrznych.
 Wszystkie dostępne pola danych są wymienione tutaj: https://watchface.io/docs/datafields. Niektóre pola danych (takie jak gotowość do treningu lub HRV) nie są obecnie dostępne dla programistów zewnętrznych, zobacz tutaj: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ Pogoda OWM / YR na Instinct 3 Solar i Instinct E ⭐️
+Zainstaluj OWM Weather GB lub YR Weather GB na swoim zegarku, a ta tarcza pokaże pogodę z aplikacji: temperaturę, prognozę, wiatr, deszcz, indeks UV i więcej. Wybierz aplikację w ustawieniach w pozycji "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, wymaga własnego klucza API): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, klucz nie jest potrzebny): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Więcej informacji: https://watchface.io/docs/owm-plugin i https://watchface.io/docs/yr-plugin
+
 ⭐️ Czy mogę zmienić tekst Fenix/Enduro itp.? ⭐️
 Tak, możesz! Zobacz tutaj: https://watchface.io/faq/how-to-change-the-fenix-text
 W rzeczywistości wszystko na tej tarczy zegarka można dostosować do własnych upodobań.

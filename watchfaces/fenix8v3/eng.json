@@ -73,7 +73,8 @@
         "_c2": "Hour 2 Color",
         "_c3": "Minute 1 Color",
         "_c4": "Minute 2 Color",
-        "_dr": "75% Darker",
+        "_dr": "Darker Tint",
+        "_dr2": "Lighter Tint",
 
         "_pc": "Text color",
         "_ic": "Label color",      
@@ -124,6 +125,7 @@
 
 
         "_gq": "Gradient Quality",
+        "_gq2": "Gradient Style",
         "_ng": "No Gradient",
         "_sh": "Time Shade",
 
@@ -135,13 +137,21 @@
         "_l1": "Bottom Circle Label",
         "_p1": "Bottom Circle Progress Style",
 
+
+        "_cst": "L/R Circle Style",
+        "_ci0": "Gradient 45 degrees offset (default)",
+        "_ci1": "Gradient no offset",
+        "_ci2": "12 Segments",
+        "_ci3": "8 Segments",
+   
+
         "_f2": "Left Circle Data",
         "_l2": "Left Circle Label",
-        "_p2": "Left Circle Progress Style",
+        "_p2": "Left Circle Progress Option",
 
         "_f3": "Right Circle Data",
         "_l3": "Right Circle Label",
-        "_p3": "Right Circle Progress Style",
+        "_p3": "Right Circle Progress Option",
 
         "_f4": "Top Progress Data",
         "_f5": "Bottom Progress Data",

@@ -26,6 +26,12 @@
 已知限制：佳明尚未开放部分高阶数据(如训练准备程度、HRV等)给第三方表盘
 https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️Instinct 3 Solar 和 Instinct E 上的 OWM / YR 天气⭐️
+在手表上安装 OWM Weather GB 或 YR Weather GB，本表盘即可显示该应用的天气数据：温度、预报、风力、降雨、紫外线指数等。请在设置中的"Weather app for the OWM/YR fields"处选择应用。
+* OWM Weather GB (OpenWeatherMap，需要您自己的 API key): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway，无需 key): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* 更多信息: https://watchface.io/docs/owm-plugin 和 https://watchface.io/docs/yr-plugin
+
 ⭐️可以修改Fenix/Enduro等设备标识吗?⭐️
 完全开放个性化修改, 可自由编辑"Fenix/Enduro"等设备标识文本。
 修改指南：https://watchface.io/faq/how-to-change-the-fenix-text

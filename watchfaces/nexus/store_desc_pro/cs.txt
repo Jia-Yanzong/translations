@@ -23,6 +23,12 @@ Poznámka: Existují dvě různá místa s nastaveními:
 Všechna datová pole, která Garmin aktuálně poskytuje vývojářům třetích stran, jsou k dispozici, plus extra jako podpora Glucose Monitor (CGM), Open Weather Map (OWM) a podpora pro další aplikace třetích stran.
 Všechna dostupná datová pole jsou uvedena zde: https://watchface.io/docs/datafields. Některá datová pole (jako připravenost k tréninku nebo HRV) nejsou aktuálně dostupná vývojářům třetích stran, viz zde: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ Počasí OWM / YR na Instinct 3 Solar a Instinct E ⭐️
+Nainstalujte si do hodinek OWM Weather GB nebo YR Weather GB a tento ciferník zobrazí počasí z dané aplikace: teplotu, předpověď, vítr, déšť, UV index a další. Aplikaci vyberte v nastavení v položce "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, vyžaduje vlastní klíč API): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, klíč není potřeba): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Více informací: https://watchface.io/docs/owm-plugin a https://watchface.io/docs/yr-plugin
+
 ⭐️ Mohu změnit text Fenix/Enduro, atd.? ⭐️
 Ano, můžete! Viz zde: https://watchface.io/faq/how-to-change-the-fenix-text
 Ve skutečnosti lze vše na tomto ciferníku upravit podle vašich představ.

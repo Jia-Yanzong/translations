@@ -25,6 +25,7 @@
         "_pi": "Mostrar Ícones da Barra de Progresso",
         "_pd": "Mostrar Dados da Barra de Progresso",
         "_pbg": "Espaço dos Círculos de Progresso",
+        "_pbw": "Espessura da Barra de Progresso",
 
         "_p1c": "Barra de Progresso Esquerda Cor 1",
         "_p1b": "Barra de Progresso Esquerda Cor 2",

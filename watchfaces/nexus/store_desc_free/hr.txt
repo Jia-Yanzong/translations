@@ -23,6 +23,12 @@ Napomena: Postoje dva različita mesta sa postavkama:
 Sva polja podataka koja Garmin trenutno obezbeđuje programerima treće strane su dostupna, plus dodatci kao što su podrška za Monitor glukoze (CGM), Open Weather Map (OWM) i podrška za druge aplikacije treće strane.
 Sva dostupna polja podataka su navedena ovde: https://watchface.io/docs/datafields. Neka polja podataka (kao što su spremnost za trening ili HRV) trenutno nisu dostupna programerima treće strane, pogledajte ovde: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ OWM / YR vrijeme na Instinct 3 Solar i Instinct E ⭐️
+Instalirajte OWM Weather GB ili YR Weather GB na svoj sat i ovaj brojčanik prikazat će vrijeme iz aplikacije: temperaturu, prognozu, vjetar, kišu, UV indeks i više. Odaberite aplikaciju u postavkama pod "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, potreban je vaš vlastiti API ključ): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, ključ nije potreban): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Više informacija: https://watchface.io/docs/owm-plugin i https://watchface.io/docs/yr-plugin
+
 ⭐️ Mogu li promeniti tekst Fenix/Enduro, itd.? ⭐️
 Da, možete! Pogledajte ovde: https://watchface.io/faq/how-to-change-the-fenix-text
 U stvari, sve na ovom brojčaniku može biti prilagođeno vašem ukusu.

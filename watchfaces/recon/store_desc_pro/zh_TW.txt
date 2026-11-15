@@ -23,6 +23,12 @@
 Garmin目前向第三方開發者提供的所有數據欄位都可用，外加額外功能，如血糖監測器(CGM)支援、Open Weather Map(OWM)以及對其他第三方應用程式的支援。
 所有可用的數據欄位都列在這裡:https://watchface.io/docs/datafields。某些數據欄位(如訓練準備度或HRV)目前不向第三方開發者提供，請參見此處:https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ Instinct 3 Solar 和 Instinct E 上的 OWM / YR 天氣 ⭐️
+在手錶上安裝 OWM Weather GB 或 YR Weather GB，此錶盤即可顯示該應用程式的天氣資料：溫度、預報、風力、降雨、紫外線指數等。請在設定中的"Weather app for the OWM/YR fields"處選擇應用程式。
+* OWM Weather GB (OpenWeatherMap，需要您自己的 API key)：https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway，無需 key)：https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* 更多資訊：https://watchface.io/docs/owm-plugin 和 https://watchface.io/docs/yr-plugin
+
 ⭐️ 我可以更改Fenix/Enduro文字等嗎? ⭐️
 是的，您可以!請參見此處:https://watchface.io/faq/how-to-change-the-fenix-text
 事實上，此錶盤上的所有內容都可以根據您的喜好進行調整。

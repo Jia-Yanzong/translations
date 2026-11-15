@@ -23,6 +23,12 @@ Nota: Hay dos lugares diferentes con configuraciones:
 Todos los campos de datos que Garmin actualmente suministra a desarrolladores de terceros están disponibles, más extras como soporte para Monitor de Glucosa (CGM), Open Weather Map (OWM) y soporte para otras aplicaciones de terceros.
 Todos los campos de datos disponibles están listados aquí: https://watchface.io/docs/datafields. Algunos campos de datos (como preparación para entrenamiento o HRV) actualmente no están disponibles para desarrolladores de terceros, vea aquí: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ Clima OWM / YR en Instinct 3 Solar e Instinct E ⭐️
+Instale OWM Weather GB o YR Weather GB en su reloj y esta esfera mostrará el clima de la aplicación: temperatura, pronóstico, viento, lluvia, índice UV y más. Elija la aplicación en los ajustes, en "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, requiere su propia clave API): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, no requiere clave): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Más información: https://watchface.io/docs/owm-plugin y https://watchface.io/docs/yr-plugin
+
 ⭐️ ¿Puedo cambiar el texto Fenix/Enduro, etc.? ⭐️
 ¡Sí, puede! Vea aquí: https://watchface.io/faq/how-to-change-the-fenix-text
 De hecho, todo en esta esfera puede ajustarse a su gusto.

@@ -23,6 +23,12 @@ Let op: Er zijn twee verschillende plaatsen met instellingen:
 Alle datavelden die Garmin momenteel aan externe ontwikkelaars levert zijn beschikbaar, plus extra's zoals Glucosemeter (CGM) ondersteuning, Open Weather Map (OWM) en ondersteuning voor andere externe apps.
 Alle beschikbare datavelden staan hier vermeld: https://watchface.io/docs/datafields. Sommige datavelden (zoals trainingsbereidheid of HRV) zijn momenteel niet beschikbaar voor externe ontwikkelaars, zie hier: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ OWM / YR weer op Instinct 3 Solar en Instinct E ⭐️
+Installeer OWM Weather GB of YR Weather GB op uw horloge en deze wijzerplaat toont het weer uit die app: temperatuur, voorspelling, wind, regen, UV-index en meer. Kies de app in de instellingen onder "Weather app for the OWM/YR fields".
+* OWM Weather GB (OpenWeatherMap, vereist uw eigen API-sleutel): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, geen sleutel nodig): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Meer info: https://watchface.io/docs/owm-plugin en https://watchface.io/docs/yr-plugin
+
 ⭐️ Kan ik de Fenix/Enduro-tekst wijzigen, enz.? ⭐️
 Ja, dat kan! Zie hier: https://watchface.io/faq/how-to-change-the-fenix-text
 In feite kan alles op dit wijzerplaatje worden aangepast naar uw wens.

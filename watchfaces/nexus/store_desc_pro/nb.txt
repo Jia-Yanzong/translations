@@ -23,6 +23,12 @@ Merk: Det er to forskjellige steder med innstillinger:
 Alle datafelt som Garmin for øyeblikket leverer til tredjepartsutviklere er tilgjengelige, pluss ekstra som Glucose Monitor (CGM) støtte, Open Weather Map (OWM) og støtte for andre tredjepartsapper.
 Alle tilgjengelige datafelt er listet her: https://watchface.io/docs/datafields. Noen datafelt (som treningsberedskap eller HRV) er for øyeblikket ikke tilgjengelige for tredjepartsutviklere, se her: https://watchface.io/faq/can-you-add-training-readiness
 
+⭐️ OWM / YR vær på Instinct 3 Solar og Instinct E ⭐️
+Installer OWM Weather GB eller YR Weather GB på klokken din, så viser denne urskiven været fra appen: temperatur, værmelding, vind, regn, UV-indeks og mer. Velg appen under "Weather app for the OWM/YR fields" i innstillingene.
+* OWM Weather GB (OpenWeatherMap, krever din egen API-nøkkel): https://apps.garmin.com/apps/706f14e6-40f4-4aa2-805c-b88bd00bd9a9
+* YR Weather GB (MET Norway, ingen nøkkel nødvendig): https://apps.garmin.com/apps/1361482e-6f81-4ed5-97ee-e93d76f9849f
+* Mer info: https://watchface.io/docs/owm-plugin og https://watchface.io/docs/yr-plugin
+
 ⭐️ Kan jeg endre Fenix/Enduro, osv. teksten? ⭐️
 Ja, det kan du! Se her: https://watchface.io/faq/how-to-change-the-fenix-text
 Faktisk kan alt på denne urskiven justeres etter din smak.
