@@ -25,7 +25,8 @@
         "_f12l": "7. Center Right Label",
         "_f12": "7. Center Right Data (seconds by default)",
         "_g1": "7. Center Right Horizontal Offset (25=center)",
-        "_g2": "7. Center Right Vertical Offset (25=center)",
+        "_g2": "7. Center Right Value Vertical Offset (25=center)",
+        "_g3": "7. Center Right Label Vertical Offset (25=center)",
         
      
 

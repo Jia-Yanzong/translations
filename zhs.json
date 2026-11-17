@@ -293,7 +293,8 @@
 
         "f680" : "CGM血糖数据(bruder_jakob)",
         "f681" : "CGM更新时间(bruder_jakob)",
-        "f689" : "CGM 1h 平均 (CGM+ GB)",
+        "f689" : "CGM+ GB 1h 平均",
+        "f690" : "CGM Connect 1h 平均 (bruder_jakob)",
         "f688" : "CGM更新时间(CGM+ GB)",
         "f683" : "CGM数据(其他来源)",
         "f682" : "应用Hydration PRO (vaw.be)",
